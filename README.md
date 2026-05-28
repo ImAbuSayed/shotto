@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shotto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shotto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotto/) |
+| **Get License** | [Commercial Licensing for Shotto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0986e02150deaa9892221795313bd1d1431d4ee3ad45cdeb4d3e61353bf3654d` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

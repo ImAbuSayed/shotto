@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shotto
+
+This log tracks the cryptographic history and versioning for the song **Shotto** (shotto).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:31:26.318045 | `v1` | `0986e02150deaa9892221795313bd1d1431d4ee3ad45cdeb4d3e61353bf3654d` | `7ad8e1bd43a896915a35df48c86f0ddb4e4c4765803d1d34f3ac773230694713` | `2026-05-29_shotto-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
