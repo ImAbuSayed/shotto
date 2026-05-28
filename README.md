@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shotto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shotto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotto/) |
+| **Get License** | [Get License For Shotto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shotto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার ওই আলো
+> নিঃশ্বাসে মিশে আছে অদ্ভুত এক ঘোর.. অদ্ভুত এক ঘোর..
+> শূন্যতায় ভেসে যাই সবই লাগে ভালো
+> বুকের ভেতর বাঁজে অচেনা এক সুর
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
